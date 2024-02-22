@@ -3,7 +3,7 @@ import Billing from "./Billing";
 import CardDeal from "./CardDeal";
 import Business from "./Business";
 import Clients from "./Clients";
-import Cta from "./Cta";
+import Clickta from "./Clickta";
 import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
@@ -15,7 +15,7 @@ export {
   CardDeal,
   Business,
   Clients,
-  Cta,
+  Clickta,
   Stats,
   Footer,
   Testimonials,

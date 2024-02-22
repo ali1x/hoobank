@@ -1,7 +1,7 @@
 import styles from "../style"
 import Button from "./Button"
 
-const Cta = () => (
+const Clickta = () => (
   <section
     className={`${styles.flexCenter} ${styles.marginY} ${styles.padding} sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}
   >
@@ -19,4 +19,4 @@ const Cta = () => (
   </section>
 )
 
-export default Cta
+export default Clickta
